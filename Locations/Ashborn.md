@@ -1,0 +1,1 @@
+City where [[Corom Lightwick]] is from. Famous for its horses and its annual horse race. Ruled by [[Eliana Lightwick]].

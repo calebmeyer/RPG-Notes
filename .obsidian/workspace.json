@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Maricia.md",
+                "file": "Locations/Autumnmoore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Maricia.md",
+                "file": "Locations/Autumnmoore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Maricia.md",
+                "file": "Locations/Autumnmoore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Maricia.md"
+                "file": "Locations/Autumnmoore.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "148b5634f2ccc463",
   "lastOpenFiles": [
-    "Player.md",
-    "Locations/Maricia.md",
-    "Images/Trident of the Deluge.png",
+    "Locations/Ashborn.md",
+    "Locations/Autumnmoore.md",
     "Locations/Asmarin.md",
+    "Locations/Maricia.md",
+    "README.md",
+    "Player.md",
+    "Images/Trident of the Deluge.png",
     "Locations/Anterra.md",
     "Player Characters/Corom Lightwick.md",
     "Non Player Characters/Eliana Lightwick.md",
@@ -174,7 +177,6 @@
     "Locations/Aquanona.md",
     "Untitled.md",
     "Locations",
-    "Test.md",
     "Non Player Characters",
     "Images",
     "Images/bae9c3d7-c853-48bb-b9c1-3ce20e78b259-profile_image-300x300.png",
