@@ -1,0 +1,1 @@
+Walter Alexandar Nackle: Tabber’s Father. Gnome. Quick witted and charming. Forgets everything not related to business, including birthdays. Shrewd businessman and trader. Average sailor.

@@ -1,0 +1,1 @@
+Hired the party to investigate and stamp out the cultists.

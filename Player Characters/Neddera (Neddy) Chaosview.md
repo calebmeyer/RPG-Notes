@@ -1,0 +1,3 @@
+Dwarf Barbarian + Grave domain Cleric (Stryd + Ende)
+
+>Basically my idea for Neddera Chaosview, the family name was changed after freedom was gained, is that (I don't know how long ago the freedom for Dwarves happened) either way her ancestors were some of the first to break their slavery through fighting, and now those ancestors defend their descendants thus the Ancestral Guardian Primal Path which her family trains all their children in, but Neddy decided after awhile she didn't only want to cause pain, but to be able to let those suffering pass with dignity of which her people were not given in the past which is why I picked the Grave Domain cleric. Depending on how things go will probably indicate what class she proceeds with.

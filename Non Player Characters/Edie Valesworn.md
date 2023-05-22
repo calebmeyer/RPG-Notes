@@ -1,0 +1,2 @@
+A young girl whose soul was ejected from her body to create a tiefling. (She ended up in a fox)
+[[Hruuk Zurka]] saved her with a blessing of Alam, and now she wants to be a druid and is training with him.

@@ -1,0 +1,1 @@
+The continent of Anterra comprises all the useful locations for this campaign.

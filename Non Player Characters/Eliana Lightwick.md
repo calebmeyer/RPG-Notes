@@ -1,0 +1,1 @@
+[[Corom Lightwick]]'s mother. The queen? of Ashborn
