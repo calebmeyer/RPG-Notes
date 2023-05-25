@@ -1,0 +1,1 @@
+Was under a forgetfulness curse. Party couldn't fix it, but got [[Karlan Everstar]] to do it for them.

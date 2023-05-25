@@ -1,0 +1,1 @@
+Killed by Luthien for the crown of Alam

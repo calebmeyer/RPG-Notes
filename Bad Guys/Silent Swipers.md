@@ -1,0 +1,1 @@
+A small (6 person) thieves guild. Mostly waylays travelers near [[Silverfrost]]

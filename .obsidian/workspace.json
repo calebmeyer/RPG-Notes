@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Autumnmoore.md",
+                "file": "Non Player Characters/X - Barls Gnarkley.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Autumnmoore.md",
+                "file": "Non Player Characters/X - Barls Gnarkley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Autumnmoore.md",
+                "file": "Non Player Characters/X - Barls Gnarkley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Autumnmoore.md"
+                "file": "Non Player Characters/X - Barls Gnarkley.md"
               }
             }
           }
@@ -148,34 +148,38 @@
   },
   "active": "148b5634f2ccc463",
   "lastOpenFiles": [
-    "Locations/Ashborn.md",
-    "Locations/Autumnmoore.md",
-    "Locations/Asmarin.md",
-    "Locations/Maricia.md",
-    "README.md",
-    "Player.md",
-    "Images/Trident of the Deluge.png",
-    "Locations/Anterra.md",
-    "Player Characters/Corom Lightwick.md",
-    "Non Player Characters/Eliana Lightwick.md",
-    "Player Characters/Neddera (Neddy) Chaosview.md",
-    "Player Characters/O'Malley.md",
-    "Player Characters/Tabber Nackle.md",
-    "Player Characters/Hruuk Zurka.md",
-    "Player Characters/Faercrath (Fury) Darzgoss.md",
-    "Non Player Characters/Rogar Darzgoss.md",
-    "Non Player Characters/Walter Nackle.md",
-    "Non Player Characters/Magnus Maxitaur.md",
-    "Non Player Characters/Karlan Everstar.md",
-    "Non Player Characters/Ember Nackle.md",
-    "Non Player Characters/Elisar.md",
-    "Non Player Characters/Edie Valesworn.md",
-    "Non Player Characters/Duke Jet of Cardaye.md",
-    "Non Player Characters/Beldryth.md",
-    "Non+Player+Characters/Edie+Valesworn.md",
-    "Non+Player+Characters",
-    "Locations/Aquanona.md",
+    "Gods and Goddesses/Pravus, the Evil One.md",
+    "Non Player Characters/X - Barls Gnarkley.md",
+    "Gods and Goddesses/Kalina, Goddess of Peace.md",
+    "Gods and Goddesses/Anima, Goddess of Life.md",
+    "Gods and Goddesses/Stryd, God of War.md",
+    "Gods and Goddesses/Mahiya, Goddess of Magic.md",
+    "Gods and Goddesses/Alam, God of Nature.md",
+    "Gods and Goddesses/Ende, God of Death.md",
+    "Artifacts and Items/Amulet of Kalina.md",
+    "Gods and Goddesses",
+    "Artifacts and Items/Tunic of Anima.md",
+    "Artifacts and Items/Gloves of Mahiya.md",
+    "Artifacts and Items/Shoulders of Stryd.md",
+    "Artifacts and Items/Boots of Ende.md",
+    "Artifacts and Items/Crown of Alam.md",
+    "Images/Treant.png",
     "Untitled.md",
+    "Artifacts and Items",
+    "Locations/Maricia.md",
+    "Non Player Characters/Magnus Maxitaur.md",
+    "Bad Guys/X - Jayson.md",
+    "Bad Guys/X - Jetta Zanardi.md",
+    "Bad Guys/Uncle Terence.md",
+    "Bad Guys/Silent Swipers.md",
+    "Bad Guys/Luthien.md",
+    "Locations/Tarmsworth.md",
+    "Bad Guys",
+    "Locations/Silverfrost.md",
+    "Locations/Ravenbourne.md",
+    "Locations/Larnwick.md",
+    "Images/Trident of the Deluge.png",
+    "Non+Player+Characters",
     "Locations",
     "Non Player Characters",
     "Images",
