@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca5c007a50640a0",
+        "id": "a11b2d17ad07fefd",
         "type": "tabs",
         "children": [
           {
-            "id": "148b5634f2ccc463",
+            "id": "cb3eb96ac557fc47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non Player Characters/X - Barls Gnarkley.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non Player Characters/X - Barls Gnarkley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non Player Characters/X - Barls Gnarkley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Non Player Characters/X - Barls Gnarkley.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,38 +138,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "148b5634f2ccc463",
+  "active": "f6cbab8ea59fbf86",
   "lastOpenFiles": [
-    "Gods and Goddesses/Pravus, the Evil One.md",
     "Non Player Characters/X - Barls Gnarkley.md",
-    "Gods and Goddesses/Kalina, Goddess of Peace.md",
-    "Gods and Goddesses/Anima, Goddess of Life.md",
-    "Gods and Goddesses/Stryd, God of War.md",
-    "Gods and Goddesses/Mahiya, Goddess of Magic.md",
-    "Gods and Goddesses/Alam, God of Nature.md",
-    "Gods and Goddesses/Ende, God of Death.md",
-    "Artifacts and Items/Amulet of Kalina.md",
-    "Gods and Goddesses",
-    "Artifacts and Items/Tunic of Anima.md",
-    "Artifacts and Items/Gloves of Mahiya.md",
-    "Artifacts and Items/Shoulders of Stryd.md",
-    "Artifacts and Items/Boots of Ende.md",
-    "Artifacts and Items/Crown of Alam.md",
-    "Images/Treant.png",
-    "Untitled.md",
-    "Artifacts and Items",
-    "Locations/Maricia.md",
-    "Non Player Characters/Magnus Maxitaur.md",
-    "Bad Guys/X - Jayson.md",
-    "Bad Guys/X - Jetta Zanardi.md",
-    "Bad Guys/Uncle Terence.md",
-    "Bad Guys/Silent Swipers.md",
-    "Bad Guys/Luthien.md",
     "Locations/Tarmsworth.md",
-    "Bad Guys",
     "Locations/Silverfrost.md",
     "Locations/Ravenbourne.md",
     "Locations/Larnwick.md",
+    "Locations/Fedoria.md",
+    "Locations/Faversham.md",
+    "Locations/Everton.md",
+    "Images/Treant.png",
+    "Gods and Goddesses/Stryd, God of War.md",
+    "Gods and Goddesses/Pravus, the Evil One.md",
+    "Gods and Goddesses/Mahiya, Goddess of Magic.md",
+    "Gods and Goddesses/Kalina, Goddess of Peace.md",
+    "Gods and Goddesses/Ende, God of Death.md",
+    "Gods and Goddesses/Anima, Goddess of Life.md",
+    "Gods and Goddesses/Alam, God of Nature.md",
+    "Gods and Goddesses",
+    "Bad Guys/X - Jetta Zanardi.md",
+    "Bad Guys/X - Jayson.md",
+    "Bad Guys/Uncle Terence.md",
+    "Bad Guys/Silent Swipers.md",
+    "Bad Guys/Luthien.md",
+    "Bad Guys",
+    "Artifacts and Items/Tunic of Anima.md",
+    "Artifacts and Items/Shoulders of Stryd.md",
+    "Artifacts and Items/Gloves of Mahiya.md",
+    "Artifacts and Items/Crown of Alam.md",
+    "Artifacts and Items/Boots of Ende.md",
+    "Artifacts and Items/Amulet of Kalina.md",
+    "Artifacts and Items",
     "Images/Trident of the Deluge.png",
     "Non+Player+Characters",
     "Locations",
