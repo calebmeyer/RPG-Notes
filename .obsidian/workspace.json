@@ -128,13 +128,21 @@
                 "file": "Session Recaps/2 - We Learn of the Cultists.md"
               }
             }
+          },
+          {
+            "id": "33e91b7329994fc9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {

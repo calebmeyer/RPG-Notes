@@ -17,5 +17,4 @@ Necromancers are not generally evil unless they are tempted by the ways of Pravu
 
 The Blood Suns focus on blood rituals. The Harvest Moons commit arson and "harvest" souls. The Fallen Stars topple governments through corruption.
 
-DM (Britney) — 01/17/2020 1:53 PM
 Before finding [[Elissar]], the flying rogue saw some children being kidnapped by a few cultists and disappearing through a portal.
