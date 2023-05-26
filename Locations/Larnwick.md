@@ -1,1 +1,1 @@
-This town was burning when we found it. [[Elisar]] was freeing the trapped spirits.
+This town was burning when we found it. [[Elissar]] was freeing the trapped spirits.
