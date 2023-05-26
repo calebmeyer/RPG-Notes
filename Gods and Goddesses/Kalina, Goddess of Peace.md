@@ -1,0 +1,1 @@
+Has an archangel named Uriel assigned to [[O'Malley (Ye Kilted One)]]

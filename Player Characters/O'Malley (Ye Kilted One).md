@@ -1,6 +1,6 @@
 Half-Elf Celestial Warlock (Kalina)
 
-Doesn't know his real name
+Doesn't know his real name. Past names: Timothy, Blake, Enrique
 
 ## Backstory
 _Ugh.  What just happened?_
@@ -27,7 +27,7 @@ A wash of pleasant warmth crowns my head and the energy sends shivers throughout
 
 “My apologies.  Just not used to bodiless whispers in my ear.  Last time anyone whispered in my ear, it was a beautiful lass and she used a more sultry voice and we definitely did some damnable deeds together.” I chuckle at my own humor.
 
-“Child, you are not damned.  I am Kalina, the Goddess of Peace and heard your prayer for mercy from the creatures Pravus descended on your home.  I have saved you, I pulled you out of the clutches of death, and brought you to this realm to act as one of my agents.  To counter the evil darkness that Pravus spreads.  To bring peace to the people of this realm.  Now quit being difficult for you are trying my patience and making me doubt the mercy I took on you.”
+“Child, you are not damned.  I am [[Kalina, Goddess of Peace]] and heard your prayer for mercy from the creatures Pravus descended on your home.  I have saved you, I pulled you out of the clutches of death, and brought you to this realm to act as one of my agents.  To counter the evil darkness that Pravus spreads.  To bring peace to the people of this realm.  Now quit being difficult for you are trying my patience and making me doubt the mercy I took on you.”
 
 “Sorry, milady.”
 

@@ -1,0 +1,12 @@
+Today we entered [[Tarmsworth]]. Corom, Amelia, and Tabber went to the rich part of town, and got invited to Viscount Blake Zanardi's house. Nim, Rawnh, and Hruuk got accosted by Viscountess Zanardi. Fury and Timothy went to a grocer lady's house and heard her story of woe (her husband died and her son was taken 6 months ago). They then met Amelia's littlest sister, who told them of Amelia's older sister that works at the dairiticiary.
+
+All of the characters that went to the Zanardi house got dressed for dinner, Corom and Tabber stole a book from the library about tieflings, and everyone attended dinner. Hruuk refused to doff his armor and don fancy clothes, and instead wild shaped into a mouse. All that ate food were drugged by Night's Laurel, a potency reducer later identified by Hruuk. Then a flash of darkness covered the room, and Nim was kidnapped. 
+
+During this time, Fury and Timothy met Eryn at the ice cream shop, and found out that they needed to go to the Viscount's house as well. Blake kicked us out after we challenged him about the kidnapping.
+
+Hruuk set to curing everyone, and Corom and Tabber set off to stir up dissent among the nobles and identify the missing page in the book they stole from the Zanardi house. The rest of the party (sans Nim, of course) went back to Fizzle Sprockets for ice cream and to regroup. Corom sent Alexa to tell them of the Wench's Alehouse, a servants' speakeasy, and they all headed there. 
+
+Nim was told (by her mother, the Viscountess) that if she tried to escape, the plants would get her. She tried anyway, and has broken three makeshift lockpicks in the process.
+
+Rawnh says:
+Rawnh, Lil Sabastian,  and Hruuk bravely fought a Mysterious Man at the tavern but, the coward that he was, used unholy magic, and escaped. Nim and Hruuk were serverly affected, but Rawnh and Lil' Subastian are cut from a tougher cloth and managed to enjoy the affects of the fantastic mead ale. Hruuk turned into a wolf as to assist Lil' Subastian in tracking the smoky scent of the mysterious man. Rawnh stayed behind to keep an eye on the child named Nim. Good thing he did because Nim nearly turned down free food from Viscountess Zanardi. The free food turned out to have some sort of potion mixed in, something Lil' Subastion somehow failed to detect. Thanks to idiot polititions, and coward wizards, Rawnh is without his armor and is currently borrowing a spear from Hruuk.

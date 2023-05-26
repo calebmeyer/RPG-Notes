@@ -1,0 +1,15 @@
+After successfully defeating the cultists and their wizard, Tabber finds a few vials of blood, an orb connected for vocal messages to the previous one we found, and a half used potion. Blake? finds a book that is unreadable to everyone but him.
+
+We come up from the basement and see Frederick and several mercs have successfully captured the other Zanardi kids, at great cost. There are many dead guards and mercs strewn about the courtyard. From the living ones, we learn that Mr. and Mrs. Zanardi are holed up in their room, and the party goes in to intercept them.
+
+The Zanardi master bedroom is empty of our foes, but filled with traps. Blake? gets paralyzed by a trapped book, and Corom takes a bunch of poison damage from a trapped desk drawer. Tabber, Fury, and wolfy Hruuk all get hit by a dart trap in the bathroom. Wolfy Hruuk finds a golden dove, but nothing happens when he boops it with his snoot. Tabber grabs it, and disappears. Everyone except Corom and the still paralyzed Blake? follow.
+
+Tabber ends up trapped inside an invisible box, slowly burning to death. A man casts a fireball then runs out of the theatre. Amelia and Hruuk run him down while the rest of the party frantically tries to save tabber. Blake?'s paralysis wears off, and he and Corom come through the golden dove portal. Blake? gets some divine inspiration, and the party destroys 4 newly glowing objects around the theatre. When the last one is destroyed, so is the magic holding Tabber, who barely survived the ordeal. After some healing from himself and the rest of the party, he's back in action.
+
+Meanwhile, Hruuk and Amelia successfully track and run down Mr. Zanardi. Hruuk uses hold person, and when it fades Mr. Zanardi tries to run again. The party successfully recaptures him and we attempt to interrogate him, with little success. We decide to return him to the family that is next in line for the city, the Goldlows.
+[12:30 AM]
+The party splits at this point. Half search the theatre, finding nothing. The other half return to the (burning, thanks Pete) Zanardi house and find all the guards and mercs dead, except for one woman. We heal her and she faints from leftover terror. We take her with us, Fury easily adding her slim frame to the Zanardi elder on his other shoulder.
+
+Corom finds some dirt on the Asmarin nobles among the notes he took from the Zanardi bedroom. Hruuk tracks a blood trail to the edge of the forest. The woman finally wakes up again and tells us that Mrs. Zanardi freed her daughter, ran her traitorous son Frederick through with a sword (then let him run off), and killed the rest of the guards and mercs.
+
+At this point, it's midnight (in game and irl), and Corom and most of the party go to the house of Mr. Bassil Goldlow. Everyone agrees that Mr. Zanardi needs a public execution... in the morning. Hruuk , Amelia, and Blake? begin to follow the blood trail, and Hruuk notices that Amelia was glowing when he casts detect magic.
