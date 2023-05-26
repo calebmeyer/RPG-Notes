@@ -128,21 +128,14 @@
                 "file": "Session Recaps/2 - We Learn of the Cultists.md"
               }
             }
-          },
-          {
-            "id": "33e91b7329994fc9",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +149,8 @@
   },
   "active": "cb3eb96ac557fc47",
   "lastOpenFiles": [
-    "Session Recaps/1 - The Beginning.md",
     "Session Recaps/2 - We Learn of the Cultists.md",
+    "Session Recaps/1 - The Beginning.md",
     "Non Player Characters/Elissar.md",
     "Non Player Characters/Eliana Lightwick.md",
     "Non Player Characters/Ember Nackle.md",
