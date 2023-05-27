@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a11b2d17ad07fefd",
+        "id": "9ca5c007a50640a0",
         "type": "tabs",
         "children": [
           {
-            "id": "cb3eb96ac557fc47",
+            "id": "148b5634f2ccc463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+                "file": "Non Player Characters/Fishalicious.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+                "file": "Non Player Characters/Fishalicious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+                "file": "Non Player Characters/Fishalicious.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md"
+                "file": "Non Player Characters/Fishalicious.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,42 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3eb96ac557fc47",
+  "active": "148b5634f2ccc463",
   "lastOpenFiles": [
-    "Images/Luthien Cave.png",
-    "Images/Naga.png",
-    "Bad Guys/Luthien.md",
+    "Images/Fishalicious.png",
+    "Non Player Characters/King Prow.md",
+    "Non Player Characters/Fishalicious.md",
+    "Images/King Prow.png",
     "Encounter Plans/2023 May 27 - Luthien bossfight.md",
-    "Encounter Plans",
-    "Artifacts and Items/Crown of Alam.md",
-    "Images/Wastrilith.png",
-    "Locations/Asmarin.md",
+    "Non Player Characters/X - Barls Gnarkley.md",
     "Session Recaps/7 - Everton.md",
     "Session Recaps/6 - Shopping in Tarmsworth.md",
-    "Locations/Everton.md",
-    "Player Characters/O'Malley (Ye Kilted One).md",
-    "Non Player Characters/Karlan Everstar.md",
     "Session Recaps/5 - Destroying the Zanardi Family (Upstairs).md",
-    "Player Characters/Corom Lightwick.md",
-    "Gods and Goddesses/Kalina, Goddess of Peace.md",
     "Session Recaps/4 - Saving the Children (Zanardi Dungeon).md",
-    "Player Characters/X - Amelia.md",
-    "Locations/Tarmsworth.md",
-    "Bad Guys/X - Blake Zanardi.md",
-    "Bad Guys/X - Jetta Zanardi.md",
-    "Bad Guys/Untitled.md",
     "Session Recaps/3 - Tarmsworth.md",
-    "Player Characters/X - Zamorak.md",
-    "Player Characters/X - Nim.md",
-    "Player Characters/X - Rawnh.md",
     "Session Recaps/2 - We Learn of the Cultists.md",
     "Session Recaps/1 - The Beginning.md",
-    "Non Player Characters/Elissar.md",
     "Session Recaps",
-    "Images/Treant.png",
+    "Player Characters/X - Zamorak.md",
+    "Player Characters/X - Rawnh.md",
+    "Player Characters/X - Nim.md",
+    "Player Characters/X - Amelia.md",
+    "Player Characters/O'Malley (Ye Kilted One).md",
+    "Non Player Characters/Elissar.md",
+    "Images/Wastrilith.png",
+    "Images/Naga.png",
+    "Images/Luthien Cave.png",
+    "Encounter Plans",
+    "Bad Guys/X - Blake Zanardi.md",
+    "Gods and Goddesses/Pravus, the Evil One.md",
+    "Gods and Goddesses/Kalina, Goddess of Peace.md",
+    "Gods and Goddesses/Anima, Goddess of Life.md",
+    "Gods and Goddesses/Stryd, God of War.md",
+    "Gods and Goddesses/Mahiya, Goddess of Magic.md",
+    "Gods and Goddesses/Alam, God of Nature.md",
+    "Gods and Goddesses/Ende, God of Death.md",
     "Gods and Goddesses",
-    "Bad Guys",
+    "Images/Treant.png",
     "Artifacts and Items",
+    "Bad Guys",
     "Images/Trident of the Deluge.png",
     "Non+Player+Characters",
     "Locations",
