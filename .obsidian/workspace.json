@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca5c007a50640a0",
+        "id": "a11b2d17ad07fefd",
         "type": "tabs",
         "children": [
           {
-            "id": "148b5634f2ccc463",
+            "id": "cb3eb96ac557fc47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non Player Characters/Fishalicious.md",
+                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non Player Characters/Fishalicious.md",
+                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non Player Characters/Fishalicious.md",
+                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non Player Characters/Fishalicious.md"
+                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 326.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,50 +147,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "148b5634f2ccc463",
+  "active": "cb3eb96ac557fc47",
   "lastOpenFiles": [
-    "Images/Fishalicious.png",
+    "Items/Potions/Potion of Greater Healing.md",
+    "Items/Potions/Elixir of Health.md",
+    "Items/Weapons/Trident of the Deluge.md",
+    "Items/Potions",
+    "Items/Weapons",
+    "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+    "Items",
     "Non Player Characters/King Prow.md",
     "Non Player Characters/Fishalicious.md",
     "Images/King Prow.png",
-    "Encounter Plans/2023 May 27 - Luthien bossfight.md",
-    "Non Player Characters/X - Barls Gnarkley.md",
+    "Images/Fishalicious.png",
+    "Images/Luthien Cave.png",
+    "Images/Naga.png",
+    "Bad Guys/Luthien.md",
+    "Encounter Plans",
+    "Artifacts and Items/Crown of Alam.md",
+    "Images/Wastrilith.png",
+    "Locations/Asmarin.md",
     "Session Recaps/7 - Everton.md",
     "Session Recaps/6 - Shopping in Tarmsworth.md",
-    "Session Recaps/5 - Destroying the Zanardi Family (Upstairs).md",
-    "Session Recaps/4 - Saving the Children (Zanardi Dungeon).md",
-    "Session Recaps/3 - Tarmsworth.md",
-    "Session Recaps/2 - We Learn of the Cultists.md",
-    "Session Recaps/1 - The Beginning.md",
-    "Session Recaps",
-    "Player Characters/X - Zamorak.md",
-    "Player Characters/X - Rawnh.md",
-    "Player Characters/X - Nim.md",
-    "Player Characters/X - Amelia.md",
+    "Locations/Everton.md",
     "Player Characters/O'Malley (Ye Kilted One).md",
-    "Non Player Characters/Elissar.md",
-    "Images/Wastrilith.png",
-    "Images/Naga.png",
-    "Images/Luthien Cave.png",
-    "Encounter Plans",
-    "Bad Guys/X - Blake Zanardi.md",
-    "Gods and Goddesses/Pravus, the Evil One.md",
+    "Non Player Characters/Karlan Everstar.md",
+    "Session Recaps/5 - Destroying the Zanardi Family (Upstairs).md",
+    "Player Characters/Corom Lightwick.md",
     "Gods and Goddesses/Kalina, Goddess of Peace.md",
-    "Gods and Goddesses/Anima, Goddess of Life.md",
-    "Gods and Goddesses/Stryd, God of War.md",
-    "Gods and Goddesses/Mahiya, Goddess of Magic.md",
-    "Gods and Goddesses/Alam, God of Nature.md",
-    "Gods and Goddesses/Ende, God of Death.md",
-    "Gods and Goddesses",
+    "Session Recaps/4 - Saving the Children (Zanardi Dungeon).md",
+    "Player Characters/X - Amelia.md",
+    "Locations/Tarmsworth.md",
+    "Bad Guys/X - Blake Zanardi.md",
+    "Bad Guys/X - Jetta Zanardi.md",
+    "Bad Guys/Untitled.md",
+    "Session Recaps/3 - Tarmsworth.md",
+    "Player Characters/X - Zamorak.md",
+    "Player Characters/X - Nim.md",
+    "Session Recaps",
     "Images/Treant.png",
-    "Artifacts and Items",
+    "Gods and Goddesses",
     "Bad Guys",
+    "Artifacts and Items",
     "Images/Trident of the Deluge.png",
     "Non+Player+Characters",
     "Locations",
-    "Non Player Characters",
-    "Images",
-    "Images/bae9c3d7-c853-48bb-b9c1-3ce20e78b259-profile_image-300x300.png",
-    "Player Characters"
+    "Images/bae9c3d7-c853-48bb-b9c1-3ce20e78b259-profile_image-300x300.png"
   ]
 }
