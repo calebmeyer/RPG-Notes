@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md",
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Plans/2023 May 27 - Luthien bossfight.md"
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md"
               }
             }
           }
@@ -147,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3eb96ac557fc47",
+  "active": "f6cbab8ea59fbf86",
   "lastOpenFiles": [
+    "Images/Waterfall beach.png",
+    "Encounter Plans/2023-05-27 - Luthien bossfight.md",
+    "Encounter Plans/2023-06-24 - Fiery Isles.md",
+    "Locations/The Fiery Isles.md",
+    "Non Player Characters/Rogar Darzgoss.md",
     "Items/Potions/Potion of Greater Healing.md",
     "Items/Potions/Elixir of Health.md",
     "Items/Weapons/Trident of the Deluge.md",
     "Items/Potions",
     "Items/Weapons",
-    "Encounter Plans/2023 May 27 - Luthien bossfight.md",
     "Items",
     "Non Player Characters/King Prow.md",
     "Non Player Characters/Fishalicious.md",
@@ -180,10 +184,6 @@
     "Locations/Tarmsworth.md",
     "Bad Guys/X - Blake Zanardi.md",
     "Bad Guys/X - Jetta Zanardi.md",
-    "Bad Guys/Untitled.md",
-    "Session Recaps/3 - Tarmsworth.md",
-    "Player Characters/X - Zamorak.md",
-    "Player Characters/X - Nim.md",
     "Session Recaps",
     "Images/Treant.png",
     "Gods and Goddesses",
