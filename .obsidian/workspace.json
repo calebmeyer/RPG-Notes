@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md",
+                "file": "Locations/Anterra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md",
+                "file": "Locations/Anterra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md",
+                "file": "Locations/Anterra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.md"
+                "file": "Locations/Anterra.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6cbab8ea59fbf86",
+  "active": "cb3eb96ac557fc47",
   "lastOpenFiles": [
+    "Locations/The Fiery Isles.md",
+    "Locations/Anterra.md",
+    "Images/anterra.jpg",
+    "Encounter Plans/2023-06-24 - Fiery Isles.md",
     "Images/Waterfall beach.png",
     "Encounter Plans/2023-05-27 - Luthien bossfight.md",
-    "Encounter Plans/2023-06-24 - Fiery Isles.md",
-    "Locations/The Fiery Isles.md",
     "Non Player Characters/Rogar Darzgoss.md",
     "Items/Potions/Potion of Greater Healing.md",
     "Items/Potions/Elixir of Health.md",
