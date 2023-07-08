@@ -11,11 +11,14 @@
             "id": "cb3eb96ac557fc47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Locations/Anterra.md",
-                "mode": "source",
-                "source": false
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+                "viewState": {
+                  "x": 63,
+                  "y": -105,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Anterra.md",
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Anterra.md",
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +128,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Anterra.md"
+                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas"
               }
+            }
+          },
+          {
+            "id": "643092c27bdfbea9",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
@@ -144,15 +155,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "cb3eb96ac557fc47",
   "lastOpenFiles": [
-    "Locations/The Fiery Isles.md",
-    "Locations/Anterra.md",
-    "Images/anterra.jpg",
+    "Monsters/Giant Crab.md",
+    "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
     "Encounter Plans/2023-06-24 - Fiery Isles.md",
+    "Images/giant-crab.jpg",
+    "Monsters",
+    "Locations/Anterra.md",
+    "Locations/The Fiery Isles.md",
+    "Images/anterra.jpg",
     "Images/Waterfall beach.png",
     "Encounter Plans/2023-05-27 - Luthien bossfight.md",
     "Non Player Characters/Rogar Darzgoss.md",
@@ -184,16 +200,12 @@
     "Session Recaps/4 - Saving the Children (Zanardi Dungeon).md",
     "Player Characters/X - Amelia.md",
     "Locations/Tarmsworth.md",
-    "Bad Guys/X - Blake Zanardi.md",
-    "Bad Guys/X - Jetta Zanardi.md",
     "Session Recaps",
     "Images/Treant.png",
     "Gods and Goddesses",
     "Bad Guys",
     "Artifacts and Items",
     "Images/Trident of the Deluge.png",
-    "Non+Player+Characters",
-    "Locations",
-    "Images/bae9c3d7-c853-48bb-b9c1-3ce20e78b259-profile_image-300x300.png"
+    "Non+Player+Characters"
   ]
 }

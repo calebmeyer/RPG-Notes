@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"file","file":"Encounter Plans/2023-06-24 - Fiery Isles.md","id":"5fe595e59e413705","x":-880,"y":-420,"width":977,"height":725},
+		{"id":"f07b62e3c7383e8b","x":280,"y":-398,"width":534,"height":682,"type":"file","file":"Monsters/Giant Crab.md"}
+	],
+	"edges":[]
+}
