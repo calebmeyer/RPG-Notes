@@ -15,10 +15,20 @@
               "state": {
                 "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
                 "viewState": {
-                  "x": 63,
-                  "y": -105,
-                  "zoom": 0
+                  "x": 109.41848189345829,
+                  "y": 1365.2713765155625,
+                  "zoom": -0.3977084213643804
                 }
+              }
+            }
+          },
+          {
+            "id": "a939c2326181b365",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/anterra.jpg"
               }
             }
           }
@@ -161,14 +171,26 @@
   },
   "active": "cb3eb96ac557fc47",
   "lastOpenFiles": [
-    "Monsters/Giant Crab.md",
+    "Monsters and Minions/Dragonborn Guards.md",
+    "Images/Silver Dragonborn Guard.png",
+    "Non Player Characters/King Raegor.md",
     "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
-    "Encounter Plans/2023-06-24 - Fiery Isles.md",
-    "Images/giant-crab.jpg",
-    "Monsters",
+    "Images/Dragonborn Guard.png",
+    "Items/Way Stones.md",
+    "Images/King Prow.png",
+    "Images/anterra.jpg",
     "Locations/Anterra.md",
     "Locations/The Fiery Isles.md",
-    "Images/anterra.jpg",
+    "Images/fortress-prison-489-1.jpg",
+    "Non Player Characters/Circle of Druids.md",
+    "Items/Potions/Gecko Potion.md",
+    "Untitled.md",
+    "Monsters and Minions/Giant Crab.md",
+    "Monsters and Minions/Giant Turtle.md",
+    "Images/giant-crab.jpg",
+    "Images/dragon-turtle.webp",
+    "Encounter Plans/2023-06-24 - Fiery Isles.md",
+    "Monsters and Minions",
     "Images/Waterfall beach.png",
     "Encounter Plans/2023-05-27 - Luthien bossfight.md",
     "Non Player Characters/Rogar Darzgoss.md",
@@ -180,32 +202,20 @@
     "Items",
     "Non Player Characters/King Prow.md",
     "Non Player Characters/Fishalicious.md",
-    "Images/King Prow.png",
     "Images/Fishalicious.png",
     "Images/Luthien Cave.png",
-    "Images/Naga.png",
     "Bad Guys/Luthien.md",
     "Encounter Plans",
     "Artifacts and Items/Crown of Alam.md",
-    "Images/Wastrilith.png",
     "Locations/Asmarin.md",
     "Session Recaps/7 - Everton.md",
     "Session Recaps/6 - Shopping in Tarmsworth.md",
     "Locations/Everton.md",
     "Player Characters/O'Malley (Ye Kilted One).md",
-    "Non Player Characters/Karlan Everstar.md",
-    "Session Recaps/5 - Destroying the Zanardi Family (Upstairs).md",
-    "Player Characters/Corom Lightwick.md",
-    "Gods and Goddesses/Kalina, Goddess of Peace.md",
-    "Session Recaps/4 - Saving the Children (Zanardi Dungeon).md",
-    "Player Characters/X - Amelia.md",
-    "Locations/Tarmsworth.md",
     "Session Recaps",
-    "Images/Treant.png",
     "Gods and Goddesses",
     "Bad Guys",
     "Artifacts and Items",
-    "Images/Trident of the Deluge.png",
     "Non+Player+Characters"
   ]
 }

@@ -1,0 +1,1 @@
+For the next 1 hour, you have a climb speed equal to your walking speed.

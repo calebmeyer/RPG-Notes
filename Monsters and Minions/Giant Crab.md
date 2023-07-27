@@ -4,8 +4,7 @@ image: [[giant-crab.jpg]]
 name: Giant Crab
 size: Large
 type: Beast
-subtype: Crab
-alignment: Neutral
+subtype: (Crab)
 ac: 18 (Natural Armor)
 hp: 150
 hit_dice: 30d10
@@ -16,7 +15,7 @@ languages: none
 cr: 8
 traits:
   - name: Amphibious
-    desc: The giant crab can breathe air or water
+    desc: The giant crab can breathe air and water.
   - name: Pincer Grip
     desc: If the crab lands both attacks on a single target, the target is grappled.
 actions:
