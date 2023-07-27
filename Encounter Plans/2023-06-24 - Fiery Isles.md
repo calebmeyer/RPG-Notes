@@ -21,5 +21,10 @@ When a player character goes down, or the fight is over, have vines appear restr
 Hruuk, you are blessed by Mighty Alam, as are we. We have much to learn from each other. But first we need your help. Our leader Ballar found something, a black stone. We are loyal subjects of the isles and he took it to give to the king. That was yesterday. This morning a bird came to tell us he's been locked in the prison in Kel'Rod.
 
 
+## Encounter 3 - The prison
+At the entrance is 3 [[Dragonborn Guards]], with an additional 5 around the corner. All but one are silver, the dungeon captain is gold.
+
+Tabber and Corom are locked in the southwest corner. Just north of them is the Druid Ballar. The prison doors and windows are warded against magic. 
+
 
 ![[fortress-prison-489-1.jpg]]
