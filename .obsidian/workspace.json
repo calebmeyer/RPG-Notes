@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a11b2d17ad07fefd",
+        "id": "4d035b34ed38d0d0",
         "type": "tabs",
         "children": [
           {
-            "id": "cb3eb96ac557fc47",
+            "id": "1ddef4f74f0be1e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
-                "viewState": {
-                  "x": 163.24623369890674,
-                  "y": 1236.921665742887,
-                  "zoom": -0.3977084213643804
-                }
-              }
-            }
-          },
-          {
-            "id": "a939c2326181b365",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/anterra.jpg"
+                "file": "Artifacts and Items/Shoulders of Stryd.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+                "file": "Artifacts and Items/Shoulders of Stryd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+                "file": "Artifacts and Items/Shoulders of Stryd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas"
+                "file": "Artifacts and Items/Shoulders of Stryd.md"
               }
-            }
-          },
-          {
-            "id": "643092c27bdfbea9",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           }
         ],
@@ -165,53 +144,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cb3eb96ac557fc47",
+  "active": "1ddef4f74f0be1e8",
   "lastOpenFiles": [
-    "Monsters and Minions/Dragonborn Guards.md",
-    "Images/Silver Dragonborn Guard.png",
-    "Non Player Characters/King Raegor.md",
-    "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
-    "Images/Dragonborn Guard.png",
-    "Items/Way Stones.md",
-    "Images/King Prow.png",
-    "Images/anterra.jpg",
+    "Non Player Characters/Drelmec Darzgoss.md",
+    "Player Characters/Faercrath (Fury) Darzgoss.md",
+    "Artifacts and Items/Tunic of Anima.md",
+    "Artifacts and Items/Shoulders of Stryd.md",
+    "Artifacts and Items/Amulet of Kalina.md",
+    "Bad Guys/Lilianna Janvier.md",
+    "Locations/Morovia.md",
     "Locations/Anterra.md",
+    "Artifacts and Items/Boots of Ende.md",
+    "Artifacts and Items/Gloves of Mahiya.md",
+    "Artifacts and Items/Crown of Alam.md",
     "Locations/The Fiery Isles.md",
-    "Images/fortress-prison-489-1.jpg",
-    "Non Player Characters/Circle of Druids.md",
-    "Items/Potions/Gecko Potion.md",
-    "Untitled.md",
-    "Monsters and Minions/Giant Crab.md",
-    "Monsters and Minions/Giant Turtle.md",
-    "Images/giant-crab.jpg",
-    "Images/dragon-turtle.webp",
+    "Items/Potions/Oil of Etherealness - 1000gp.md",
+    "Items/Weapons/Woodcutter's Axe - 750 gp.md",
+    "Items/Bottomless Mug - 50 gp.md",
+    "Items/All or Nothing Coin - 50gp.md",
     "Encounter Plans/2023-06-24 - Fiery Isles.md",
+    "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+    "Artifact Finder.md",
+    "Items/Artifact Aquirer.md",
+    "Player Characters/Zamorak.md",
+    "Images/Zamorak.png",
+    "Monsters and Minions/Dragonborn Guards.md",
+    "Untitled.md",
+    "Non Player Characters/King Raegor.md",
+    "Non Player Characters/Circle of Druids.md",
+    "Monsters and Minions/Giant Turtle.md",
+    "Monsters and Minions/Giant Crab.md",
     "Monsters and Minions",
+    "Images/giant-crab.jpg",
+    "Images/fortress-prison-489-1.jpg",
+    "Images/dragon-turtle.webp",
+    "Images/Silver Dragonborn Guard.png",
+    "Images/Dragonborn Guard.png",
+    "Images/Giant Crab.jpg",
+    "Images/anterra.jpg",
     "Images/Waterfall beach.png",
-    "Encounter Plans/2023-05-27 - Luthien bossfight.md",
-    "Non Player Characters/Rogar Darzgoss.md",
-    "Items/Potions/Potion of Greater Healing.md",
-    "Items/Potions/Elixir of Health.md",
-    "Items/Weapons/Trident of the Deluge.md",
     "Items/Potions",
     "Items/Weapons",
     "Items",
-    "Non Player Characters/King Prow.md",
-    "Non Player Characters/Fishalicious.md",
-    "Images/Fishalicious.png",
-    "Images/Luthien Cave.png",
-    "Bad Guys/Luthien.md",
+    "Images/King Prow.png",
     "Encounter Plans",
-    "Artifacts and Items/Crown of Alam.md",
-    "Locations/Asmarin.md",
-    "Session Recaps/7 - Everton.md",
-    "Session Recaps/6 - Shopping in Tarmsworth.md",
-    "Locations/Everton.md",
-    "Player Characters/O'Malley (Ye Kilted One).md",
     "Session Recaps",
     "Gods and Goddesses",
     "Bad Guys",

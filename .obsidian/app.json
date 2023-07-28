@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "vimMode": false,
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "promptDelete": false
 }

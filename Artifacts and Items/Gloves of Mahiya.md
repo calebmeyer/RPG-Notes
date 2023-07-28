@@ -1,3 +1,5 @@
+Location: Party
+
 These are long white elbow length gloves
 
 Passive: you regain a spell slot of your choice on a short rest

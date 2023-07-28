@@ -1,0 +1,1 @@
+Cover yourself in this (takes 10 minutes) to gain the effects of the [Etherealness](https://5e.tools/spells.html#etherealness_phb) spell for 1 hour

@@ -1,3 +1,4 @@
+Location: with [[Drelmec Darzgoss]]
 Passive: your AC is 25 regardless of other bonuses/detriments
 
 ## Channel Divinity: Stryd

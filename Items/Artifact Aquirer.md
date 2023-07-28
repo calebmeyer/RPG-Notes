@@ -1,0 +1,1 @@
+This is a golden compass made by Tabber. When held by an adventurer, it points to the location of their Deity's Artifact.

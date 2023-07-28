@@ -1,3 +1,4 @@
+Location: Party
 Passive: +10 stealth, you can speak with spirits and corpses at will
 
 ## Channel Divinity: Ende

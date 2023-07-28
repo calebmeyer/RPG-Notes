@@ -1,1 +1,0 @@
-[[Faercrath (Fury) Darzgoss]]'s father. 

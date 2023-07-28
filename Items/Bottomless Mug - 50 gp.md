@@ -1,0 +1,1 @@
+This mug looks like an ordinary metal mug, but can hold 10 gallons of liquid.
