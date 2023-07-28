@@ -1,4 +1,7 @@
 Location: with [[Drelmec Darzgoss]]
+
+Maybe gets taken by Fury's platoon to another plane?
+
 Passive: your AC is 25 regardless of other bonuses/detriments
 
 ## Channel Divinity: Stryd
