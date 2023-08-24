@@ -1,0 +1,19 @@
+While the party is off fighting Luthien, Tabber, Corom, and Zamorak are having their own problems. 4 dragonborn ships have surrounded them, and they have brought their own magic users. Tabber and Corom each manage to toss one thing over the side of the boat before they're brought low. Zamorak fares a little better, blasting several fiery holes in one of the ships before he too is taken down. 
+
+As the party surfaces, they see a lapis camel, and grab it. Then they swim towards the ships, and find a small orb with a red light slowly blinking. The party swims as fast as they can, but watch as the enemy forces Zamorak (at swordpoint) to put wind in the sails. The blinks slow down more and more until they stop.
+
+Faced with a long swim, Hruuk decides to polymorph Fury into a giant eagle, then become one himself. They fly Neddy and O'Malley safely to shore, though the ships are nowhere to be seen. A waterfall tumbles down a low cliff, the water leading to the ocean's edge. 
+
+Hruuk's eagle eyes spot a chest under a crumbling dock, and he attempts to grab it, but just grabs the lid instead. O'Malley hops down the small cliff to get it himself. He makes it to the chest and gets some watery papers, a leather pouch with a few coins (10), and 3 stoppered glass bottles filled with a brown liquid. 
+
+At the same time, a blackened crab starts creeping up behind him and everyone gets ready for a fight. Hruuk tries to take out its eyes, but gets a chunk of flesh instead. Fury hops down and goads it, slicing it with his sword. O'Malley gets to blasting, and Neddy guides our strikes. 
+
+The crab hits Hruuk, knocking him out of his eagle shape, then turns toward Fury and WHAM hits him with a huge critical. Then a giant black and red turtle slowly starts making its way across the sand. 
+
+Hruuk polymorphs the giant scary turtle into a little nearly harmless turtle while the fight with the crab rages on. He tries to seek Alam's guidance in restoring its soul, but with no luck. So instead he turns into a bird again, and drops it about a mile out in the sea. As he is heading back, he looks behind him and sees a column of black flame erupt out of the water. Something tried to eat that turtle...
+
+Meanwhile, the rest of the party easily breaks the vines trying to ensnare them from the druids they spooked. We meet green dragonborns Lochru and Aiche and they offer us a place to rest, in a secret cave behind the waterfall. The party rests, and Hruuk attempts to find divine guidance again. He finds out that Pravus' corruption has spread to this land, and that Ballar is locked away in the prison in the capitol city, Kel'Rod.
+
+When the party finishes a nice, long rest, they all head out to the city. Fury knows exactly where to go, and puts away his armor and sword in favor of robes and a cloak. The bored silver dragonborn guard lets them into the city, with a warning about the dangerous criminal Faercrath, who is wanted.
+
+As the party heads toward the prison, to spring Ballar, they discuss plans. Neddy will use the Boots of Ende to get in and tell Ballar, and they'll use stealth and wild shapes to try and get him out. O'Malley stays quiet, and the party wonders why until they see it's no longer O'Malley walking with them, but some kind of humanoid with black eyes. It tries to stab Hruuk, but Fury "stumbles" into a (very) successful hold person. The rest of the party quietly beat on it, except for the indignant O'Malley, who launches bright eldritch blasts from the rooftop he finds himself on. As it breaks free of its hold, Hruuk threatens it with a polymorph. Neddy kills it as the polymorph goes off, so it's briefly a small turtle before fading away as black essence. Its last words are "You haven't seen the last of me, heroes... My kind is not so easy to kill".
