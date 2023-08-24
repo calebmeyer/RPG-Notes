@@ -1,3 +1,3 @@
-![[Dragonborn Guard.png]]
+![[Dragonborn Guard Captain.png]]
 
 ![[Silver Dragonborn Guard.png]]

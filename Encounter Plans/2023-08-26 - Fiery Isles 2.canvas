@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Encounter 1 - Prison Break\n\nOutside, guarding the doors are two [[Dragonborn Guards]], a red and a green. Fighting them will summon 4 more. Sneaking around the building requires a DC 10 stealth check. Sneaking past them will require a distraction, or a DC 25 stealth check.\n\nAt the entrance (to downstairs) is 3 [[Dragonborn Guards]], with an additional 5 around the corner. All but one are silver, the dungeon captain is gold. Sneaking past them requires a DC 15 stealth check.\n\nTabber and Corom are locked in the southwest corner. Just north of them is the Druid Ballar. The prison doors and windows are warded against magic. \n\nTheir belongings are in a locked chest in the southeast central room. That chest is trapped, it requires a DC 20 investigation check to spot the dart. A DC 20 sleight of hand with thieves tools will unlock it without triggering the trap, or 15 will unlock it but trigger the trap. Any less and the trap is triggered. It's a dart coated in a powerful paralysis poison (DC 18 CON save to resist the effect).\n\n![[fortress-prison-489-1.jpg]]","id":"44115e6064c58a37","x":-200,"y":-340,"width":660,"height":1080},
+		{"type":"file","file":"Images/Dragonborn Guard Captain.png","id":"eedf335f022b460f","x":-742,"y":-280,"width":325,"height":400,"color":"#bca929"},
+		{"type":"file","file":"Non Player Characters/Circle of Druids.md","id":"15eec9eedd980a7f","x":520,"y":-280,"width":580,"height":940,"color":"4"},
+		{"type":"file","file":"Images/Silver Dragonborn Guard.png","id":"cc762087b773bc8e","x":-779,"y":170,"width":400,"height":393},
+		{"id":"c873f753ea977fe2","x":-180,"y":920,"width":620,"height":180,"type":"text","text":"# Encounter 2 - Save the Turtle?"}
+	],
+	"edges":[
+		{"id":"cd53119ffcad78e7","fromNode":"44115e6064c58a37","fromSide":"left","toNode":"cc762087b773bc8e","toSide":"right"},
+		{"id":"84bd6b32e6b6a4fe","fromNode":"44115e6064c58a37","fromSide":"left","toNode":"eedf335f022b460f","toSide":"right"}
+	]
+}

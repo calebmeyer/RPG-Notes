@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"type":"file","file":"Encounter Plans/2023-06-24 - Fiery Isles.md","id":"5fe595e59e413705","x":-880,"y":-400,"width":977,"height":3260},
-		{"type":"file","file":"Monsters and Minions/Giant Crab.md","id":"f07b62e3c7383e8b","x":120,"y":840,"width":560,"height":680},
-		{"type":"file","file":"Monsters and Minions/Giant Turtle.md","id":"c06860da5630cd50","x":120,"y":-400,"width":560,"height":1180},
-		{"type":"text","text":"# Chest contents\nMoldy clothes\nSome watery papers that might have been letters\nA rotting leather pouch with 10 gp\n3 stoppered bottles with an unknown brown liquid inside\n(it's [[Gecko Potion]]s, and a DC 12 Intelligence (Arcana) check will tell you that)","id":"d0592a9765917023","x":-1400,"y":-400,"width":480,"height":260,"color":"2"},
+		{"type":"file","file":"Encounter Plans/2023-06-24 - Fiery Isles.md","id":"5fe595e59e413705","x":-880,"y":-400,"width":977,"height":3520},
+		{"type":"file","file":"Monsters and Minions/Giant Crab.md","id":"f07b62e3c7383e8b","x":140,"y":840,"width":540,"height":680},
+		{"type":"file","file":"Monsters and Minions/Giant Turtle.md","id":"c06860da5630cd50","x":140,"y":-400,"width":540,"height":1180},
 		{"type":"file","file":"Non Player Characters/Circle of Druids.md","id":"5707f9a2f734c13c","x":-1400,"y":-100,"width":480,"height":910},
-		{"type":"text","text":"# Black Stone\nThis is one of a pair of [[Way Stones]]. The king was not happy when a pair of Pravus' Devils showed up in his throne room. The stone leads to \n","id":"202c3a15b6dc756f","x":-1400,"y":840,"width":480,"height":179,"color":"1"}
+		{"type":"text","text":"# Black Stone\nThis is one of a pair of [[Way Stones]]. The king was not happy when a pair of Pravus' Devils showed up in his throne room. The stone leads to \n","id":"202c3a15b6dc756f","x":-1400,"y":840,"width":480,"height":179,"color":"1"},
+		{"type":"text","text":"# Chest contents\nMoldy clothes\nSome watery papers that might have been letters\nA rotting leather pouch with 10 gp\n3 stoppered bottles with an unknown brown liquid inside\n(it's [[Gecko Potion]]s, and a DC 12 Intelligence (Arcana) check will tell you that)","id":"d0592a9765917023","x":-1400,"y":-400,"width":480,"height":260,"color":"2"}
 	],
 	"edges":[]
 }

@@ -13,22 +13,24 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+                "file": "Encounter Plans/2023-08-26 - Fiery Isles 2.canvas",
                 "viewState": {
-                  "x": -229.3430388947745,
-                  "y": 850.9194614813141,
-                  "zoom": -0.3977084213643804
+                  "x": 478.12173929499687,
+                  "y": 458.29803754739726,
+                  "zoom": -0.6666666666666665
                 }
               }
             }
           },
           {
-            "id": "a939c2326181b365",
+            "id": "9a0cf50e6b607a28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/anterra.jpg"
+                "file": "Monsters and Minions/Dragonborn Guards.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+                "file": "Encounter Plans/2023-08-26 - Fiery Isles 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+                "file": "Encounter Plans/2023-08-26 - Fiery Isles 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Plans/2023-06-24 - Fiery Isles.canvas"
+                "file": "Encounter Plans/2023-08-26 - Fiery Isles 2.canvas"
               }
             }
           },
@@ -165,12 +167,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "cb3eb96ac557fc47",
   "lastOpenFiles": [
+    "Monsters and Minions/Dragonborn Guards.md",
+    "Encounter Plans/2023-08-26 - Fiery Isles 2.canvas",
+    "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
+    "Encounter Plans/2023-08-26 - Fiery Isles 2.md",
+    "Images/anterra.jpg",
     "Player Characters/Zamorak.md",
     "Non Player Characters/Drelmec Darzgoss.md",
     "Locations/Morovia.md",
@@ -181,14 +187,11 @@
     "Items/All or Nothing Coin - 50gp.md",
     "Images/Zamorak.png",
     "Bad Guys/Lilianna Janvier.md",
-    "Monsters and Minions/Dragonborn Guards.md",
     "Images/Silver Dragonborn Guard.png",
     "Non Player Characters/King Raegor.md",
-    "Encounter Plans/2023-06-24 - Fiery Isles.canvas",
-    "Images/Dragonborn Guard.png",
+    "Images/Dragonborn Guard Captain.png",
     "Items/Way Stones.md",
     "Images/King Prow.png",
-    "Images/anterra.jpg",
     "Locations/Anterra.md",
     "Locations/The Fiery Isles.md",
     "Images/fortress-prison-489-1.jpg",
@@ -206,11 +209,9 @@
     "Non Player Characters/Rogar Darzgoss.md",
     "Items/Potions/Potion of Greater Healing.md",
     "Items/Potions/Elixir of Health.md",
-    "Items/Weapons/Trident of the Deluge.md",
     "Items/Potions",
     "Items/Weapons",
     "Items",
-    "Non Player Characters/King Prow.md",
     "Images/Fishalicious.png",
     "Encounter Plans",
     "Session Recaps",

@@ -7,3 +7,5 @@ traits:
 
 ```
 Fiery Isles Druids: Ballar, Lochru, Aiche (a bronze and two green dragonborn)
+
+Note: Ballar also knows Pass without Trace, and Confusion, and his spell save DC is 15
